@@ -1,1 +1,3 @@
 print('valami')
+''' csak megjegyzem
+'''
